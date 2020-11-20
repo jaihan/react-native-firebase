@@ -1,5 +1,7 @@
 # React-native-firebase
 
+Simplified Firebase authentication for React Native projects with Registration, login, read and write.
+
 ## Features
 * Registration with email & password
 * Login with emil and Password
